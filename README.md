@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Devilawyer
+- 👀 I’m interested in Data Science and Full-Stack Dev
+- 🌱 I’m currently learning both 
+- 💞️ I’m looking to new experiences and switch my whole life
+- 📫 If you want to talk with me, write here 👀 
